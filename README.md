@@ -1,12 +1,9 @@
 [![](https://onlineboutique.dev/static/icons/Hipster_NavLogo.svg)](https://onlineboutique.dev/)
-
 # **Introduction**
 **Online Boutique** is a cloud-first microservices demo application deployed by Rajinikanth Vadla. Online Boutique consists of an 11-tier microservices application. The application is a web-based e-commerce app where users can browse items, add them to the cart, and purchase them.
 
 Google uses this application to demonstrate the use of technologies like Kubernetes, GKE, Istio, Stackdriver, and gRPC. This application works on any Kubernetes cluster, like Google
 Kubernetes Engine (GKE). It’s **easy to deploy with little to no configuration**.
-
-**Credits:** [Link to GitHub repository](https://github.com/GoogleCloudPlatform/microservices-demo)
 
 ## Screenshots
 
