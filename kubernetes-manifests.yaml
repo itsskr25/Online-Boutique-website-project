@@ -249,7 +249,7 @@ metadata:
   name: frontend-ingress
 spec:
   rules:
-  - host: rajinishop.zapto.org
+  - host: skrshop.zapto.org
     http:
       paths:
       - path: /
@@ -317,7 +317,7 @@ metadata:
   name: paymentservice-ingress
 spec:
   rules:
-  - host: rajinishop.zapto.org
+  - host: skrshop.zapto.org
     http:
       paths:
       - path: /payment
@@ -385,7 +385,7 @@ metadata:
   name: productcatalogservice-ingress
 spec:
   rules:
-  - host: rajinishop.zapto.org
+  - host: skrshop.zapto.org
     http:
       paths:
       - path: /product
@@ -454,7 +454,7 @@ metadata:
   name: cartservice-ingress
 spec:
   rules:
-  - host: rajinishop.zapto.org
+  - host: skrshop.zapto.org
     http:
       paths:
       - path: /cart
@@ -523,7 +523,7 @@ metadata:
   name: currencyservice-ingress
 spec:
   rules:
-  - host: rajinishop.zapto.org
+  - host: skrshop.zapto.org
     http:
       paths:
       - path: /currency
@@ -592,7 +592,7 @@ metadata:
   name: shippingservice-ingress
 spec:
   rules:
-  - host: rajinishop.zapto.org
+  - host: skrshop.zapto.org
     http:
       paths:
       - path: /shipping
@@ -662,7 +662,7 @@ metadata:
   name: redis-cart-ingress
 spec:
   rules:
-  - host: rajinishop.zapto.org
+  - host: skrshop.zapto.org
     http:
       paths:
       - path: /redis
@@ -732,7 +732,7 @@ metadata:
   name: adservice-ingress
 spec:
   rules:
-  - host: rajinishop.zapto.org
+  - host: skrshop.zapto.org
     http:
       paths:
       - path: /ads
